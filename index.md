@@ -12,4 +12,4 @@ In den Terminator-Teilen, Arnold Schwarzenegger spielt den T-800, der im 1. Teil
 As The Terminator (A. Schwarzenegger) said:
 > Hasta la vista, baby!
 
-![Terminator](https://upload.wikimedia.org/wikipedia/en/8/85/Terminator2poster.jpg)
+<img src="https://upload.wikimedia.org/wikipedia/en/8/85/Terminator2poster.jpg"/>
